@@ -47,6 +47,7 @@ func (req *HelloRequest) Validate(ctx context.Context) {
 }
 
 func SayHello(ctx context.Context, req *HelloRequest) (resp *HelloResponse, err error) {
+	// Say hello to the client.
 	resp = &HelloResponse{
 		Message: serviceConfig.Welcome + ", " + req.Name,
 	}
