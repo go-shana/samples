@@ -1,0 +1,6 @@
+service:
+  ttl: 30s
+
+shana:
+  # Set to true to turn on debug mode for development.
+  debug: true

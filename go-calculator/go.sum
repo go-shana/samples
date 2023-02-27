@@ -7,8 +7,8 @@ github.com/chenzhuoyu/base64x v0.0.0-20221115062448-fe3a3abad311/go.mod h1:b583j
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
-github.com/go-shana/core v0.0.0-20230224054124-3f6beaa30e59 h1:7UkEsytt+Jt3E8AFboU1sN6JCzdUYAfxZjixFYFtIZU=
-github.com/go-shana/core v0.0.0-20230224054124-3f6beaa30e59/go.mod h1:MMInn65xPgbmnGmiywMwy0tOvUKUxcMwif9/u9bLJT4=
+github.com/go-shana/core v0.0.0-20230225164952-9df9d5e4467d h1:tekna7nAP0lNJIaMvtCvNQxltst6xyeW94SwJHfPDfI=
+github.com/go-shana/core v0.0.0-20230225164952-9df9d5e4467d/go.mod h1:MMInn65xPgbmnGmiywMwy0tOvUKUxcMwif9/u9bLJT4=
 github.com/huandu/go-assert v1.1.5 h1:fjemmA7sSfYHJD7CUqs9qTwwfdNAx7/j2/ZlHXzNB3c=
 github.com/huandu/go-assert v1.1.5/go.mod h1:yOLvuqZwmcHIC5rIzrBhT7D3Q9c3GFnd0JrPVhn/06U=
 github.com/huandu/go-clone v1.5.0 h1:vXzaNv7gjTsP6dT3KSv98wrVbC+WLhKVfoM+gvHBxbk=
